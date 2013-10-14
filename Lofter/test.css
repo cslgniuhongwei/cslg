@@ -1,0 +1,118 @@
+*{margin: 0;padding: 0}
+body{text-align: center;font-family: 宋体;}
+li{list-style: none;}
+img{border: 0}
+a{text-decoration: none;color: rgb(136, 136, 136);font-size: 12px;cursor: pointer;}
+#bgimg{width: 1349px;height: 610px;position: relative;min-width: 1300px}
+#liulan{width: 1349px;min-width: 1300px;height:3530px;position: absolute;left: 0;top: 0;background-color: #fff;z-index: 999;display: none;}
+#content{position: absolute;width: 1349px;height: 610px;left:0;top:0;}
+#img1{width: 1349px;height: 610px;}
+#div1{width: 1349px;height: 230px;padding-top: 100px;}
+#div2{position: relative;width: 1349px;height:180px;min-width: 1300px;text-align: center;min-height: 200px}
+#div1s{display: block;text-shadow:0 1px 1px rgba(0, 0, 0, 0.6);font-weight: normal;width: 450px;height: 30px;line-height: 30px;font-size: 22px;letter-spacing: 12px;color: #fff;font-family: "Hiragino Sans GB","Hiragino Sans GB W3","Microsoft YaHei","微软雅黑",tahoma,arial,simsun,"宋体";}
+#div1top{width: 427px;height: 130px;margin: auto;background-image: url("image/login-24.png");}
+#div1bottom{width: 450px;height: 30px;margin: auto;margin-bottom: 50px}
+#divbotton{width: 620px;margin: auto;text-align: center;}
+
+#div2btn{position: relative;cursor: pointer;width: 192px;height: 52px;background-image: url("image/login-24.png");background-position: -1px -195px;float: left;}
+
+#div2zc{position: relative;cursor: pointer;margin-left: 15px;width: 192px;height: 52px;background-image: url("image/login-24.png");background-position: -1px -261px;float: left;}
+
+#div2ll{cursor: pointer;margin-left: 15px;width: 192px;height: 52px;background-image: url("image/login-24.png");background-position: -1px -327px;*background-position: -201px -327px;float: left;}
+ #btncon{position: absolute;width: 1349px;height: 295px;*height: 300px;z-index: 0;background-color: #fff;top:318px;*top:310px;display:none;} 
+ .sanjiao{cursor: default;position:absolute;width: 36px;height: 17px;background-image: url("image/login-24.png");background-position: -405px -290px;top:63px;left: 42%;display: none;}
+ .clickcon{position: absolute;width: 604px;height: 371px;}
+ #btnconent{left:365px;top:78px;height: 240px;display: none; }
+ #zccon{left:365px ;top:78px;height: 260px;display: none;}
+ #btnconent1{width: 332px;height: 261px;float: left;margin-top: 35px}
+ #btnconent2{width: 190px;height: 185px;float: right;margin-top: 35px}
+ #h3{color: rgb(136, 136, 136);margin-bottom: 18px;font-size: 12px;text-align: left;font-family: "Microsoft YaHei","微软雅黑",tahoma,arial,simsun,"宋体";font-weight: normal;}
+.li1{display: block;width: 332px;height: 42px;margin-bottom: 15px;}
+.li2{display: block;width: 135px;height: 40px;margin-bottom: 15px;padding-left: 55px;line-height: 40px;color: rgb(255,255,255);text-align: left;*width: 190px;*height:45px }
+.lllll{border: 1px solid #ccc;width: 298px;height: 22px;padding: 9px 16px 9px 16px;position: relative;*z-index: 0;*height: 40px;*width: 330px}
+
+#label1{color: rgb(170, 170, 170);font-size: 16px;position: absolute;left: 16px;top: 9px;z-index: 1;font-family:"Microsoft YaHei","微软雅黑",tahoma,arial,simsun,"宋体"; }
+#txt2{font-size: 16px;line-height: 22px;color:rgb(68, 68, 68);position: absolute;display: block;width: 298px;height: 22px;margin: 0 auto;border: none;left: 16px;top: 9px;z-index: 2;background-color: transparent;}
+#label2{color: rgb(170, 170, 170);font-size: 16px;position: absolute;left: 16px;top: 9px;z-index: 1;font-family:"Microsoft YaHei","微软雅黑",tahoma,arial,simsun,"宋体"; }
+#txt1{font-size: 16px;line-height: 22px;color:rgb(68, 68, 68);position: absolute;display: block;width: 298px;height: 22px;margin: 0 auto;border: none;left: 16px;top: 9px;z-index: 2;background-color: transparent;}
+#li13{cursor: pointer;background-image: url("image/login-24.png");background-position: 0 -869px}
+#li124{cursor: pointer;background-image: url("image/login-24.png");background-position: -2px -977px}
+
+#li111{cursor: pointer;background-image: url("image/login-24.png");background-position: -2px -505px;}
+#li122{cursor: pointer;background-image: url("image/login-24.png");background-position: -2px -559px}
+#li133{cursor: pointer;background-image: url("image/login-24.png");background-position: -2px -614px}
+#li1111{cursor: pointer;background-image: url("image/login-24.png");background-position: -2px -505px;}
+#li1222{cursor: pointer;background-image: url("image/login-24.png");background-position: -2px -559px}
+#li1333{cursor: pointer;background-image: url("image/login-24.png");background-position: -2px -614px}
+#li14{height: 17px}
+
+#xuanze{width: 16px;height: 16px;background-image: url("image/login-24.png");background-position: -84px -667px;float: left;}
+#li14d1{width: 72px;height: 17px;float: left;}
+#li14d2{width: 48px;height: 17px;float: right;}
+#txt3{font-size: 16px;line-height: 22px;color:rgb(68, 68, 68);position: absolute;display: block;width: 298px;height: 22px;margin: 0 auto;border: none;left: 16px;top: 9px;z-index: 2;background-color: transparent;}
+#label3{color: rgb(170, 170, 170);font-size: 16px;position: absolute;left: 16px;top: 9px;z-index: 1;font-family:"Microsoft YaHei","微软雅黑",tahoma,arial,"simsun","宋体"; }
+#txt4{font-size: 16px;line-height: 22px;color:rgb(68, 68, 68);position: absolute;display: block;width: 298px;height: 22px;margin: 0 auto;border: none;left: 16px;top: 9px;z-index: 2;background-color: transparent;}
+#label4{color: rgb(170, 170, 170);font-size: 16px;position: absolute;left: 16px;top: 9px;z-index: 1;font-family:"Microsoft YaHei","微软雅黑",tahoma,arial,"simsun","宋体"; }
+#txt5{font-size: 16px;line-height: 22px;color:rgb(68, 68, 68);position: absolute;display: block;width: 150px;height: 22px;margin: 0 auto;border: none;left: 16px;top: 9px;z-index: 2;background-color: transparent;}
+#label5{width:48px ;color: rgb(170, 170, 170);font-size: 16px;position: absolute;left: 16px;top: 9px;z-index: 1;font-family:"Microsoft YaHei","微软雅黑",tahoma,arial,"simsun","宋体"; }
+#piccheck{cursor: pointer;width: 85px;height: 38px;position: absolute;left:204px;top:0px;background-image: url("image/captcha.jpgx.jpg");background-position: 3px 0px;background-repeat: no-repeat;}
+#picgx{cursor: pointer;width: 38px;height: 40px;position: absolute;left:290px;top:0px;background-image: url("image/login-24.png"); background-position: -174px -656px}
+
+
+/*--------liulan---------*/
+#liulan1{position: relative;width: 1349px;height: 380px;background-color: rgb(237, 237, 239);color:rgb(68, 68, 68);font-family: "SimSun", "Microsoft YaHei";font-size: 12px;text-align: center; }
+    #ll1d1{width: 135px;height: 19px;float: right;margin: 29px 48px 47px 0px}
+       #ll1d1h{letter-spacing: 1px;display: block;float: left;font-weight: normal;font-size: 14px;font-family:"Microsoft YaHei";color:rgb(102, 102, 102); }
+       #ll1d1a{letter-spacing: 1px;text-decoration: underline;display: block;font-size: 14px;float: left;color:rgb(102, 102, 102);font-family:"Microsoft YaHei";}
+       #ll1d1a:hover{color:rgb(117, 148, 179);}
+    #qqq{font-size: 48px;font-family:arial;}
+    #ll1d2{width: 1349px;height: 58px;position: absolute;top: 95px;left: 0px;font-size: 42px;font-family:"Hiragino Sans GB","Hiragino Sans GB W3","Microsoft YaHei";font-weight: 700;color: rgb(51, 51, 51);letter-spacing:3px;}
+    #ll1d3{width: 1349px;height: 19px;position: absolute;top: 163px;left: 0px;font-size: 14px;font-family:"Hiragino Sans GB","Hiragino Sans GB W3","Microsoft YaHei";font-weight: normal;color: rgb(51, 51, 51);letter-spacing:3px;}
+    #ll1d4{cursor: pointer;width: 342px;height: 42px;position: absolute;top: 231px;left: 504px;background-image: url("image/login-24.png");background-position: 0px -1084px; }
+       #ggg{cursor: pointer;font-size: 20px;letter-spacing: 3px;line-height: 42px;color: rgb(255,255,255);font-family:"Hiragino Sans GB","Hiragino Sans GB W3","Microsoft YaHei";}
+#liulan2{position: relative;width: 1349px;height: 997px;background-color: rgb(255,255,255);text-align: center;}
+    .liulanclass{width: 1349px;height: 56px;position: absolute;top: 38px;left: 0px;font-size: 42px;font-weight: 400;letter-spacing: 5px;font-family:"Hiragino Sans GB","Hiragino Sans GB W3","Microsoft YaHei";color: rgb(187, 187, 187);}
+    .liulanclass2{width: 1349px;height: 56px;position: absolute;top: 112px;left: 0px;font-size: 42px;font-weight: 400;letter-spacing: 5px;font-family:"Hiragino Sans GB","Hiragino Sans GB W3","Microsoft YaHei";color: rgb(51, 51, 51);}
+    #ll2d23{width: 498px;height: 56px;position: absolute;top: 210px;left: 428px}
+     .loja{display: block;width: 162px;height: 56px;margin: 0 2px;background-image: url("image/login-24.png");background-position:0px -1190px;float: left;font-size: 24px;line-height: 56px;color: rgb(255,255,255);font-family:"Microsoft YaHei"; }
+    #ll2d24{width: 927px;height: 594px;position: absolute;top: 315px;left: 250px}
+#liulan3{position: relative;width: 1349px;height: 692px;background-color: rgb(237, 237, 239);text-align: center;}
+    #liulan3d{width: 1349px;height: 320px;top:223px;left: 0px;position: absolute;z-index: 2;}
+    #liulan3d2{width: 1349px;height: 320px;top:223px;left: 0px;position: absolute;z-index: 3;background-color: rgba(237, 237, 239,0.8);}
+     #liulan3d3{width: 396;height: 320px;top:223px;left: 477px;position: absolute;z-index: 4;background-image: url("image/img.jpg");}
+    #liulan3di{display: block;width: 1349px;height: 320px}
+#liulan4{position: relative;width: 1349px;height: 1120px;background-color: rgb(255, 255, 255);text-align: center;}
+    #muchimg{position: absolute;width: 1349px;height: 760px;top: 245px;text-align: left;left: 0px}
+    .muchimg1{width:230px;height: 760px;float: left;position: relative;text-align: left;}
+    #da{width: 473px;height: 488px}
+    #muchimg2{width:473px;height: 760px;} 
+
+    .muchimgd1{width: 215px;height: 230px;margin-bottom: 27px}
+    .zhedang{width: 215px;height: 194px;position: absolute;left: 0;top: 0;z-index: 6}
+    #zhedang1{width: 452px;height: 450px}
+     #rr{left: 0;top: 0}
+     #ss{left: 0;top: 0;width: 452px;height: 450px}
+     .img10{width: 215px;height: 194px;z-index: 2;position: absolute;}
+     #specialimg{width: 452px;height: 450px}
+    .smaimg{cursor: pointer;width: 215px;height: 194px;position: relative;}
+    .smaimgzz{cursor: pointer;width: 215px;height: 36px;background-color: rgb(241,241,241);}
+    .smaigz{display: block;width: 25px;height: 25px;float: left;margin-top: 5px}
+    .smaigza{display: block;font-size: 12px;height: 36px;line-height: 36px;color: rgb(102, 102, 102);margin-left: 40px}
+    .smaigza:hover{color: rgb(117, 148, 179);}
+    #specialza{width: 452px}
+
+#liulan5{position: relative;width: 1349px;height: 343px;background-color: rgb(237, 237, 239);text-align: center;}
+      #ggg2{cursor: pointer;font-size: 20px;letter-spacing: 3px;line-height: 42px;color: rgb(255,255,255);font-family:"Hiragino Sans GB","Hiragino Sans GB W3","Microsoft YaHei";}
+    #liulan51{position: absolute;left: 0px;width: 1349px;height: 56px;font-size: 42px;font-family:"Hiragino Sans GB","Hiragino Sans GB W3","Microsoft YaHei";font-weight: bold;color: rgb(51, 51, 51);letter-spacing:3px;top: 50px}
+     #liulan52{cursor: pointer;width: 342px;height: 42px;position: absolute;top:144px;left: 504px;background-image: url("image/login-24.png");background-position: 0px -1084px; }
+.pppp{float: left;}
+#juli{margin-right: 20px}
+ #mofi{width:185px }
+.mofi1{width:185px }
+.mofi2{width:185px }
+.mofi3{width:185px }
+.mofi4{width:185px }
+.mofi5{width:185px }
+.mofi6{width:185px }
+.mofi7{}
+/*--------liulan end-----*/

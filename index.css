@@ -1,0 +1,23 @@
+*{margin: 0;padding: 0}
+a{text-decoration: none;}
+body{text-align: center;font-family: 宋体;}
+img{border: 0px;}
+#content{width: 900px;height: 962px;margin: auto;text-align: center;}
+#indexA{margin:auto ;display: block;border-radius: 15px;width: 278px;height: 162px;background-image: url("img/下载.png");float: left;}
+#indexB{margin:auto ;display: block;border-radius: 15px;width: 278px;height: 162px;float: left;margin-left: 10px;margin-right: 10px}
+#img1{display: block;border-radius: 15px;width: 278px;height: 162px;}
+#indexA:hover{color: #f00;text-decoration:underline;background-color: #666 };
+#indexC{margin:auto ;display: block;border-radius: 15px;width: 278px;height: 162px;float:left;}
+#img2{display: block;border-radius: 15px;width: 278px;height: 162px;}
+#go{margin-top: 20px;}
+#indexd{margin:auto ;display: block;border-radius: 15px;width: 278px;height: 162px;float: left;border-radius: 15px}
+#dota{display: block;width: 278px;height: 162px;border-radius: 15px}
+#indexe{font-size: 30px;margin:auto ;display: block;border-radius: 15px;width: 278px;height: 162px;float: left;margin-left: 10px;margin-right: 10px;line-height:162px;background-color: rgba(25,25,25,0.8);color: #fff }
+#indexe:hover{background-color: rgba(55,55,55,0.8);color: #a00}
+#indexe2{font-size: 30px;margin:auto ;display: block;border-radius: 15px;width: 278px;height: 162px;float: left;margin-left: 2px;margin-right: 10px;line-height:162px;background-color: rgba(25,25,25,0.8);color: #fff }
+#indexe2:hover{background-color: rgba(55,55,55,0.8);color: #a00}
+#indexe0{font-size: 30px;margin:auto ;display: block;border-radius: 15px;width: 278px;height: 162px;float: left;margin-left: 0px;margin-right: 0px;line-height:162px;background-color: rgba(25,25,25,0.8);color: #fff }
+#indexe0:hover{background-color: rgba(55,55,55,0.8);color: #a00}
+
+
+#go2{margin-top: 200px}
